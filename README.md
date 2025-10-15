@@ -1,4 +1,4 @@
-# Exercícios SQL - Cafeteria BomGosto
+# 📝 Exercícios SQL - Cafeteria BomGosto
 
 Este repositório contém os exercícios de SQL desenvolvidos para a Cafeteria BomGosto, utilizando dados de comandas, itens de comanda e cardápio. O objetivo é praticar consultas SQL, joins, agregações e formatação de resultados.
 
@@ -26,7 +26,7 @@ BomGosto/
 ```
 ---
 
-## Descrição dos Arquivos SQL
+## 📄 Descrição dos Arquivos SQL
 
 **01_listar_cardapio.sql**  
    Lista todos os itens do cardápio ordenados por nome.  
@@ -45,7 +45,7 @@ BomGosto/
 
 ---
 
-## Como usar
+## ▶️ Como usar
 
 1. Abra o banco `database.db` no SQLite (ou outro gerenciador de banco compatível).
 2. Execute os scripts SQL na ordem dos exercícios.
