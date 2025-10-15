@@ -9,19 +9,19 @@ Este repositório contém os exercícios de SQL desenvolvidos para a Cafeteria B
 ```bash
 BomGosto/
 │
-├─ sql/                  # Scripts SQL dos exercícios
+├─ sql/           # Scripts SQL dos exercícios
 │  ├─ 01_listar_cardapio.sql
 │  ├─ 02_listar_itens_comanda.sql
 │  ├─ 03_total_comanda.sql
 │  ├─ 04_comandas_mais_de_um_cafe.sql
 │  └─ 05_faturamento_por_data.sql
 │
-├─ data/                 # Arquivos CSV usados para gerar o banco
+├─ data/          # Arquivos CSV usados para gerar o banco
 │  ├─ cardapio.csv
 │  ├─ comanda.csv
 │  └─ item_comanda.csv
 │
-└─ database.db           # Banco SQLite com os dados das tabelas
+└─ database.db    # Banco SQLite com os dados das tabelas
 
 ```
 ---
