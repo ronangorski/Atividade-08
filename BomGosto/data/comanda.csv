@@ -1,0 +1,11 @@
+id_comanda,data,nr_mesa,nome_cliente
+1,2025-10-06,3,Jack
+2,2025-10-06,3,Kate
+3,2025-10-06,2,Boone
+4,2025-10-06,1,Claire
+5,2025-10-07,1,Penny
+6,2025-10-07,1,Desmond
+7,2025-10-07,2,Hurley
+8,2025-10-07,3,Charlie
+9,2025-10-08,2,Juliet
+10,2025-10-08,1,Sawyer

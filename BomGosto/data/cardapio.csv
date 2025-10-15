@@ -1,0 +1,11 @@
+id_cardapio,nome_item,descricao,preco_unitario
+101,Expresso,50ml,6.00
+102,Café Passado,200ml,7.00
+103,Cappuccino Tradicional,270ml (Com canela e açúcar),12.00
+104,Cappuccino Italiano,270ml (Sem açúcar),12.00
+105,Água Mineral,500ml,5.00
+201,Bolo do Dia,Fatia (Consultar sabor),12.00
+202,Misto Quente,"Pão, queijo e presunto",10.00
+203,Pão de Queijo,Unidade,4.00
+204,Empanada,Unidade (Consultar sabores),5.00
+205,Brownie,Fatia,10.00
