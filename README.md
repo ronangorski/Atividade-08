@@ -26,19 +26,19 @@ BomGosto/
 
 ## Descrição dos Arquivos SQL
 
-1. **01_listar_cardapio.sql**  
+**01_listar_cardapio.sql**  
    Lista todos os itens do cardápio ordenados por nome.  
 
-2. **02_listar_itens_comanda.sql**  
+**02_listar_itens_comanda.sql**  
    Apresenta todas as comandas com os itens correspondentes, detalhando nome, descrição, quantidade, preço unitário e preço total.  
 
-3. **03_total_comanda.sql**  
+**03_total_comanda.sql**  
    Lista todas as comandas com o valor total de cada comanda.  
 
-4. **04_comandas_mais_de_um_cafe.sql**  
+**04_comandas_mais_de_um_cafe.sql**  
    Lista as comandas que possuem mais de um tipo de item, mostrando o valor total.  
 
-5. **05_faturamento_por_data.sql**  
+**05_faturamento_por_data.sql**  
    Mostra o total de faturamento por data.  
 
 ---
