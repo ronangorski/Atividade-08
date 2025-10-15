@@ -22,8 +22,8 @@ BomGosto/
 │  └─ item_comanda.csv
 │
 └─ database.db           # Banco SQLite com os dados das tabelas
-```
 
+```
 ---
 
 ## Descrição dos Arquivos SQL
